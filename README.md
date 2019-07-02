@@ -36,7 +36,7 @@
 ### [PGConf 2019 Moscow](https://pgconf.ru/2019)
 
 * Доклад "PostgreSQL + PostGIS + TimescaleDB - хранилище для систем мониторинга транспорта"
-([слайды](https://pgconf.ru/2019/242909), [видео](), [демо](https://github.com/binakot/PgConf-2019-Moscow-Demo))
+([слайды](https://pgconf.ru/2019/242909), [видео](https://youtu.be/SEncf-h4Npw), [демо](https://github.com/binakot/PgConf-2019-Moscow-Demo))
 
 * Блицдоклад "Маппинг иерархии Java объектов в JSONB столбцы PostgreSQL с MyBatis ORM" 
 ([демо](https://github.com/binakot/Java-Inheritance-Into-PostgreSQL-JSONB-Mapping))
@@ -48,7 +48,7 @@
 ### [HighLoad++ 2019 Siberia](https://www.highload.ru/siberia/2019)
 
 * Доклад "Time series данные в реляционной СУБД. Расширения TimescaleDB и PipelineDB для PostgreSQL"
-([слайды](https://www.highload.ru/siberia/2019/abstracts/5208), [видео](), [демо](https://github.com/binakot/HighLoad-2019-Siberia-Demo))
+([слайды](https://www.highload.ru/siberia/2019/abstracts/5208), [видео](https://youtu.be/3WkNp7mllv0), [демо](https://github.com/binakot/HighLoad-2019-Siberia-Demo))
 
 ## Подкасты
 
