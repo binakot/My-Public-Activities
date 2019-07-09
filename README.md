@@ -64,6 +64,14 @@
 
 * []()
 
+## Прочее
+
+### [Twitter-аккаунт "Разработчик backend'а"](https://twitter.com/backendsecret)
+
+* [Неделя с 3 декабря 2018](http://backendsecret.ru/binakot/)
+
+---
+
 ## Docker образы
 
 * [PostgreSQL-PostGIS-TimescaleDB](https://hub.docker.com/r/binakot/postgresql-postgis-timescaledb)
