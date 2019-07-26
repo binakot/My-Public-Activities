@@ -41,6 +41,8 @@
 * Блицдоклад "Маппинг иерархии Java объектов в JSONB столбцы PostgreSQL с MyBatis ORM" 
 ([демо](https://github.com/binakot/Java-Inheritance-Into-PostgreSQL-JSONB-Mapping))
 
+* Награда "Лучший доклад на конференции PGConf.Russia 2019"
+
 ### [HighLoad++ 2019 Saint](https://www.highload.ru/spb/2019)
 
 * Митап "DevRel & Community"
@@ -49,6 +51,10 @@
 
 * Доклад "Time series данные в реляционной СУБД. Расширения TimescaleDB и PipelineDB для PostgreSQL"
 ([слайды](https://www.highload.ru/siberia/2019/abstracts/5208), [видео](https://youtu.be/3WkNp7mllv0), [демо](https://github.com/binakot/HighLoad-2019-Siberia-Demo))
+
+* Топ-3 доклад по отзывам участников конференции
+
+* [Интересные доклады на HighLoad++ Siberia 2019 по версии Plesk](https://habr.com/ru/company/plesk/blog/460885/)
 
 ## Подкасты
 
@@ -62,7 +68,7 @@
 
 ### [The Art of Programming](https://blog.golodnyj.ru/)
 
-* []()
+* [195 На сибирских просторах — The Art Of Programming [ Highload ] ](https://blog.golodnyj.ru/2019/07/195-art-of-programming-highload.html)
 
 ## Прочее
 
