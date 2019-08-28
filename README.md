@@ -54,7 +54,9 @@
 
 * Топ-3 доклад по отзывам участников конференции
 
-* [Интересные доклады на HighLoad++ Siberia 2019 по версии Plesk](https://habr.com/ru/company/plesk/blog/460885/)
+* [Habr. Time series данные в реляционной СУБД. Расширения TimescaleDB и PipelineDB для PostgreSQL](https://habr.com/ru/company/oleg-bunin/blog/464303/)
+
+* [Habr. Интересные доклады на HighLoad++ Siberia 2019 по версии Plesk](https://habr.com/ru/company/plesk/blog/460885/)
 
 ## Подкасты
 
