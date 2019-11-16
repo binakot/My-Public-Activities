@@ -58,6 +58,8 @@
 
 * [Habr. Интересные доклады на HighLoad++ Siberia 2019 по версии Plesk](https://habr.com/ru/company/plesk/blog/460885/)
 
+* [OTUS. Time series-данные в реляционной СУБД](https://otus.ru/nest/post/1041/)
+
 ## Подкасты
 
 ### [RuPostgres](https://www.meetup.com/ru-RU/postgresqlrussia)
