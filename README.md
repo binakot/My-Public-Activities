@@ -74,6 +74,10 @@
 
 * [195 На сибирских просторах — The Art Of Programming [ Highload ] ](https://blog.golodnyj.ru/2019/07/195-art-of-programming-highload.html)
 
+### [SDCast](https://sdcast.ksdaemon.ru/)
+
+* [SDCast #123: в гостях Иван Муратов, технический директор ПМК, активист Краснодарского ИТ сообщества](https://sdcast.ksdaemon.ru/2020/09/sdcast-123/)
+
 ## Прочее
 
 ### [Twitter-аккаунт "Разработчик backend'а"](https://twitter.com/backendsecret)
