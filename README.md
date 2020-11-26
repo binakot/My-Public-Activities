@@ -66,6 +66,8 @@
 
 * [Временные ряды, геопространственные вычисления и слабоструктурированные данные](https://youtu.be/9DnX92dTh9c)
 
+* [В-s02e08 Распаковка TimescaleDB 2.0. В гостях — Иван Муратов](https://youtu.be/vbJCq9PhSR0)
+
 ### [Витая пара](https://tpair.org/)
 
 * [Витая пара 330 — HighLoad preparty](https://tpair.org/podcast/tp-330/)
