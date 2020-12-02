@@ -68,6 +68,8 @@
 
 * [В-s02e08 Распаковка TimescaleDB 2.0. В гостях — Иван Муратов](https://youtu.be/vbJCq9PhSR0)
 
+* [В-s02e09 Timescale с Иваном Муратовым. Часть 2 — ныряем глубже: сжатие и визуализация](https://youtu.be/1C2VGD90KGk)
+
 ### [Витая пара](https://tpair.org/)
 
 * [Витая пара 330 — HighLoad preparty](https://tpair.org/podcast/tp-330/)
