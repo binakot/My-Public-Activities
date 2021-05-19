@@ -82,6 +82,10 @@
 
 * [SDCast #123: в гостях Иван Муратов, технический директор ПМК, активист Краснодарского ИТ сообщества](https://sdcast.ksdaemon.ru/2020/09/sdcast-123/)
 
+### [Hexlet](https://ru.hexlet.io/)
+
+* [Интервью с Иваном Муратовым: о разных языках программирования на проекте и в архитектуре](https://www.youtube.com/watch?v=OuEiUmEMiW0)
+
 ## Прочее
 
 ### [Twitter-аккаунт "Разработчик backend'а"](https://twitter.com/backendsecret)
