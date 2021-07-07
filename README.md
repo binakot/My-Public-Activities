@@ -92,6 +92,10 @@
 
 * [Неделя с 3 декабря 2018](http://backendsecret.ru/binakot/)
 
+### [Хакатон 123 - Инновации в спорте и туризме](https://hack123.ru)
+
+* [Капитан команды Waliot, занявшей 2 место с MVP сервиса beCycled](https://github.com/be-Cycled)
+
 ---
 
 ## Docker образы
