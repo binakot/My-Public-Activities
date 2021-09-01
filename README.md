@@ -62,7 +62,7 @@
 
 ## Подкасты
 
-### [RuPostgres](https://www.meetup.com/ru-RU/postgresqlrussia)
+### [RuPostgres](https://rupostgres.org)
 
 * [Временные ряды, геопространственные вычисления и слабоструктурированные данные](https://youtu.be/9DnX92dTh9c)
 
