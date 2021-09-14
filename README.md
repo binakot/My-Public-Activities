@@ -4,7 +4,7 @@
 
 * Член оргкомитет [Krasnodar Dev Days](https://krd.dev). 
 ИТ сообщество Краснодара и края. 
-Ежегодная конференция Krasnodar Dev Conf, регулярные митапы (frontend, backend, python, golang, etc).
+Ежегодная конференция Krasnodar Dev Conf, регулярные митапы (frontend, backend, devops, etc).
 
 * Основатель и организатор Krasnodar Backend митапов.
 
@@ -60,6 +60,11 @@
 
 * [OTUS. Time series-данные в реляционной СУБД](https://otus.ru/nest/post/1041/)
 
+### [RndTechConf 2021](https://rndtech.pro/)
+
+* Доклад "Distributed TimescaleDB. Time-series данные в распределенном кластере TimescaleDB поверх ОРСУБД PostgreSQL"
+([анонс](https://rndtech.pro/tpost/8kj3hplfd1-time-series-dannie-v-raspredelennom-klas), [слайды](https://drive.google.com/file/d/1b2VL6uIjz2ao9iDCuOF0UzVBTe2Hj1sY/view?usp=sharing), [сниппет](https://gist.github.com/binakot/6ede22fad2309f6017ccd8b343a08b97))
+
 ## Подкасты
 
 ### [RuPostgres](https://rupostgres.org)
@@ -98,10 +103,7 @@
 
 ---
 
-## Docker образы
+## Дополнительно
 
-* [PostgreSQL-PostGIS-TimescaleDB](https://hub.docker.com/r/binakot/postgresql-postgis-timescaledb)
+* [Образы на Docker Hub](https://hub.docker.com/u/binakot)
 
-* [PostgreSQL-TimescaleDB-PipelineDB](https://hub.docker.com/r/binakot/postgresql-timescaledb-pipelinedb)
-
-* [WSO2-Identity-Server](https://hub.docker.com/r/binakot/wso2-identity-server)
