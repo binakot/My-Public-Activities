@@ -65,6 +65,10 @@
 * Доклад "Distributed TimescaleDB. Time-series данные в распределенном кластере TimescaleDB поверх ОРСУБД PostgreSQL"
 ([анонс](https://rndtech.pro/tpost/8kj3hplfd1-time-series-dannie-v-raspredelennom-klas), [слайды](https://drive.google.com/file/d/1b2VL6uIjz2ao9iDCuOF0UzVBTe2Hj1sY/view?usp=sharing), [сниппет](https://gist.github.com/binakot/6ede22fad2309f6017ccd8b343a08b97))
 
+### [Big Data Days 2021](https://bigdatadays.ru/)
+
+* Доклад "Распределенное Хранилище IoT Телеметрии на Базе PostgreSQL и TimescaleDB" ([анонс](https://bigdatadays.ru/Ivan-Muratov/), [слайды](https://drive.google.com/file/d/14QPWFuOiVdSykMB3aEF0-piwxu8NVNFW/view?usp=sharing), [видео](https://youtu.be/8DMpufwh-2s))
+
 ## Подкасты
 
 ### [RuPostgres](https://rupostgres.org)
