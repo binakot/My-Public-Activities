@@ -111,3 +111,4 @@
 
 * [Образы на Docker Hub](https://hub.docker.com/u/binakot)
 
+* [Сниппеты на GitHub Gists](https://gist.github.com/binakot)
