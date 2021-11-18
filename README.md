@@ -69,6 +69,16 @@
 
 * Доклад "Распределенное Хранилище IoT Телеметрии на Базе PostgreSQL и TimescaleDB" ([анонс](https://bigdatadays.ru/Ivan-Muratov/), [слайды](https://drive.google.com/file/d/14QPWFuOiVdSykMB3aEF0-piwxu8NVNFW/view?usp=sharing), [видео](https://youtu.be/8DMpufwh-2s))
 
+### [PGConf 2021 Moscow](https://pgconf.ru/202110)
+
+* Доклад "TimescaleDB 2.0 - Time-series данные в распределенном кластере TimescaleDB поверх ОРСУБД PostgreSQL" ([анонс](https://pgconf.ru/202110/308555))
+
+* Награда "Топ-3 доклад по отзывам участников конференции"
+
+### [MergeConf 2021 Innopolis](https://mergeconf.ru/)
+
+* Доклад "TimescaleDB 2.0 - Time-series данные в распределенном кластере TimescaleDB поверх ОРСУБД PostgreSQL" ([анонс](https://mergeconf.ru/development/backend/muratov))
+
 ## Подкасты
 
 ### [RuPostgres](https://rupostgres.org)
