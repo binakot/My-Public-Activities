@@ -105,6 +105,10 @@
 
 * [Интервью с Иваном Муратовым: о разных языках программирования на проекте и в архитектуре](https://www.youtube.com/watch?v=OuEiUmEMiW0)
 
+### [ProductStar](https://productstar.ru/)
+
+* [Вебинар для начинающих. Java с нуля: напиши свой первый код — Иван Муратов](https://youtu.be/bOUmcWkU3GI)
+
 ## Прочее
 
 ### [Twitter-аккаунт "Разработчик backend'а"](https://twitter.com/backendsecret)
