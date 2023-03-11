@@ -119,6 +119,10 @@
 
 * [Капитан команды Waliot, занявшей 2 место с MVP сервиса beCycled](https://github.com/be-Cycled)
 
+### [Хакатон Iqarium - Строительство (Воронка инновационных стартапов)](https://iqarium.ru/hakatontime)
+
+* [Капитан команды Waliot, занявшей 1 место с MVP сервиса UrbanLabs](https://github.com/URBANLABS-GROUP)
+
 ---
 
 ## Дополнительно
