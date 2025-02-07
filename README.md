@@ -146,6 +146,8 @@
   * [Часть 2. Датасет](https://habr.com/ru/articles/863294/)
   * [Часть 3. Высота над уровнем моря](https://habr.com/ru/articles/863370/)
   * [Часть 4. Скорость и курс](https://habr.com/ru/articles/867400/)
+  * [Часть 5. Качество данных и валидация](https://habr.com/ru/articles/873376/)
+  * [Часть 6. Сравнение и выводы](https://habr.com/ru/articles/880116/)
 
 ### Коммерсантъ
 
