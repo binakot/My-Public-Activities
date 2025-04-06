@@ -114,7 +114,7 @@
 
 ### [ТоТ еще разговор](https://www.youtube.com/@totrazgovor)
 
-* [«Мне нравятся технологии, а не люди»– Иван Муратов. Техдир о коде, идеальной команде и смысле жизни]([https://youtu.be/bOUmcWkU3GI](https://youtu.be/QRC5LMouJ-w?si=Fv3MDW1i_TaiMc7s))
+* [«Мне нравятся технологии, а не люди» – Иван Муратов. Техдир о коде, идеальной команде и смысле жизни](https://youtu.be/QRC5LMouJ-w?si=Fv3MDW1i_TaiMc7s)
 
 ## Прочее
 
