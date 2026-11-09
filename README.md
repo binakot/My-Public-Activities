@@ -1,58 +1,144 @@
 # Моя активность
 
+[Образы на Docker Hub](https://hub.docker.com/u/binakot) · [Сниппеты на GitHub Gists](https://gist.github.com/binakot)
+
+* [Организационная деятельность](#организационная-деятельность)
+* [Публичные выступления](#публичные-выступления)
+* [Подкасты](#подкасты)
+* [Прочее](#прочее)
+* [Публикации](#публикации)
+
+---
+
 ## Организационная деятельность
 
-* Член оргкомитет [Krasnodar Dev Days](https://krd.dev), ИТ сообщества Краснодара и края. 
+* Член оргкомитета [Krasnodar Dev Days](https://krd.dev), ИТ-сообщества Краснодара и края.
 Ежегодная конференция, сезонные мини-конференции и регулярные митапы (frontend, backend, devops, etc).
 
 * Основатель и организатор [Krasnodar Backend](https://www.youtube.com/@krddevdays/playlists) митапов.
 
-* Старший преподаватель кафедры математического моделирования факультета компьютерных технологий и прикладной математики в Кубанском государственом университете.
+* Старший преподаватель кафедры математического моделирования факультета компьютерных технологий и прикладной математики в Кубанском государственном университете.
 
 ---
 
 ## Публичные выступления
 
-### ["Найти в IT" от HeadHunter в КубГТУ в Краснодаре](https://hh.timepad.ru/event/477879)
+### 2026
 
-* Доклад "Джентльменский набор начинающего разработчика"
-([слайды](https://drive.google.com/open?id=1HN3yyf7-itkHNqYeGnBW8MX7JOUKoGMMBD-gGpiRGk8))
+#### [ULCAMP 2026 Ульяновск](https://2026.ulcamp.ru/)
 
-### [Krasnodar Dev Days 2](https://krd.dev/events/3)
+* Баркемп #1 Dev Talk «Agentic Dev — обнуление или буст для инженеров?» ([программа](https://2026.ulcamp.ru/programs))
 
-* Доклад "Тест Джоэла Спольски. 20 лет спустя. Наши дни."
-([слайды](https://drive.google.com/open?id=15jZ55GRfyAL7h4Dc4U-AXczJ_qTZmizDkg4XH7gEgRs), [видео](https://youtu.be/f6G4OaEWBaE))
+#### [Телематика-Юг 2026 Краснодар](https://telematics-forum.ru/)
 
-### [Krasnodar Backend Meetup 2](https://krd.dev/events/7)
+* Воркшоп по работе с платформой управления автопарком [WALIOT](https://waliot.com).
 
-* Доклад "Docker Swarm — k8s для бедных"
-([слайды](https://yadi.sk/i/1Fw7vq1n3UzgTr), [видео](https://youtu.be/BrOUx5AMOBE))
+#### [South HUB'26](https://southhub.ru/)
 
-### [Krasnodar Dev Days 3](https://krd.dev/events/1)
+* Бизнес-завтрак «AI First PDLC: чему BigTech уже научился в проде» ([AI‑DISRUPT PDLC](https://aipdlc.ru/))
 
-* Круглый стол "Монолит? SOA? Микросервисы? Serverless? Развитие инфраструктурных подходов"
+#### [АгроFest 2026](https://agrofestdstu.ru/)
 
-### [HighLoad++ 2018 Moscow](https://www.highload.ru/moscow/2018)
+* Доклад «От чат-бота к цифровой бригаде»
+* Член комиссии
 
-* Митап для активистов ИТ сообществ
+#### [WCDi! 2026](https://can.locme.ru/programm-wcdi-2026/)
 
-### [PGConf 2019 Moscow](https://pgconf.ru/2019)
+* Доклад «WALIOT — лицом к партнерам!» ([видео](https://vkvideo.ru/video-58304826_456239102))
+* Стенд Waliot
 
-* Доклад "PostgreSQL + PostGIS + TimescaleDB - хранилище для систем мониторинга транспорта"
-([слайды](https://pgconf.ru/2019/242909), [видео](https://youtu.be/SEncf-h4Npw), [демо](https://github.com/binakot/PgConf-2019-Moscow-Demo))
+### 2025
 
-* Блицдоклад "Маппинг иерархии Java объектов в JSONB столбцы PostgreSQL с MyBatis ORM" 
-([демо](https://github.com/binakot/Java-Inheritance-Into-PostgreSQL-JSONB-Mapping))
+#### [АгроТех: цифровая трансформация и инновации в АПК 2025](https://news.donstu.ru/news/v-dgtu-startovala-akseleratsionnaya-programma-agrotekh-tsifrovaya-transformatsiya-i-innovatsii-v-apk)
 
-* Награда "Лучший доклад на конференции PGConf.Russia 2019"
+* Эксперт комиссии по цифровой трансформации и ИТ
 
-### [HighLoad++ 2019 Saint](https://www.highload.ru/spb/2019)
+#### [Krasnodar Backend miniConf 2025](https://krd.dev/events/2025-11-15-krasnodar-backend-miniconf)
 
-* Митап "DevRel & Community"
+* Организатор и ведущий мероприятия ([видео](https://www.youtube.com/watch?v=RANz5pPi3ys&list=PL1irPRp3Ng9Y0fFuojFXBbi3rIIfzxrCH))
 
-### [HighLoad++ 2019 Siberia](https://www.highload.ru/siberia/2019)
+#### [DonDevConf 2025](https://ddconf.ru/)
 
-* Доклад "Time series данные в реляционной СУБД. Расширения TimescaleDB и PipelineDB для PostgreSQL"
+* Круглый стол «Управление IT-командами глазами СТО: от проблем к эффективным решениям» ([видео](https://vkvideo.ru/video-96517328_456239105))
+
+#### [Code in the Dark 2025 by WILIX](https://vk.ru/wilix_team?w=wall-182018491_55)
+
+* Ведущий мероприятия
+
+#### [Всероссийский День Поля 2025 — Волгоград](https://russian-field-day.ru/)
+
+* Стенды Waliot и BreedEx
+
+#### [День Донского Поля 2025 — Ростов-на-Дону](https://don-pole.ru/)
+
+* Доклад «Современные вызовы навигации в АПК и точном земледелии»
+
+#### [АгроFest 2025](https://agrofestdstu.ru/)
+
+* Доклад «Современное ИТ в эпоху ИИ в АПК»
+* Член комиссии
+
+#### [WCDi! 2025](https://can.locme.ru/konference-8-9-aprelya-2027-goda/programm_2025/)
+
+* Доклад «WALIOT 2.0: Партнерство, импортозамещение и новые возможности» ([видео](https://vkvideo.ru/video-58304826_456239063))
+* Стенд Waliot
+
+#### [Южный строительный форум 2025](https://ug-biz.ru/yug_stroy)
+
+* Доклад «Waliot — драйвер эффективности на стройплощадке»
+
+### 2024
+
+#### Krasnodar Beer Meetup 2024
+
+* Доклад «ТЕСТЫ»
+
+#### [Коммерсант Краснодар](https://events.kommersant.ru/krd/events/kruglyj-stol-czifra-v-kraj-kak-na-kubani-vnedryayut-it-tehnologii/)
+
+* Круглый стол «Цифра в край: как на Кубани внедряют ИТ-технологии»
+
+#### [AVA miniConf 2024](https://avadom.ru/events/smi-o-nas/v-krasnodare-obsudili-razvitie-regionalnogo-it-soobshchestva/)
+
+* Доклад «Системы мониторинга транспорта»
+
+#### [Бизнес-форум Логистика Юга России](https://xn----8sbhbxqv0aj4g8a.xn--p1ai/news/tpost/46nn6m2ab1-biznes-forum-logistika-yuga-rossii-trans)
+
+* Панельная сессия
+
+#### [Krasnodar Backend miniConf 2024](https://krd.dev/events/2024-08-17-krasnodar-backend-miniconf)
+
+* Организатор и ведущий мероприятия ([видео](https://www.youtube.com/watch?v=F3mj5CXp7lA&list=PL1irPRp3Ng9ZriMMmHfy47eVsGfK3DOPF))
+
+#### [WCDi! 2024](https://can.locme.ru/programm_conference_2024/)
+
+* Доклад «Waliot — путь самурая к собственному продукту» ([видео](https://vk.ru/video-58304826_456239031))
+
+### 2021
+
+#### [MergeConf 2021 Innopolis](https://mergeconf.ru/)
+
+* Доклад «TimescaleDB 2.0 — Time-series данные в распределенном кластере TimescaleDB поверх ОРСУБД PostgreSQL» ([анонс](https://mergeconf.ru/development/backend/muratov))
+
+#### [PGConf 2021 Moscow](https://pgconf.ru/202110)
+
+* Доклад «TimescaleDB 2.0 — Time-series данные в распределенном кластере TimescaleDB поверх ОРСУБД PostgreSQL» ([анонс](https://pgconf.ru/202110/308555))
+
+* Награда «Топ-3 доклад по отзывам участников конференции»
+
+#### [Big Data Days 2021](https://bigdatadays.ru/)
+
+* Доклад «Распределенное Хранилище IoT Телеметрии на Базе PostgreSQL и TimescaleDB» ([анонс](https://bigdatadays.ru/Ivan-Muratov/), [слайды](https://drive.google.com/file/d/14QPWFuOiVdSykMB3aEF0-piwxu8NVNFW/view?usp=sharing), [видео](https://youtu.be/8DMpufwh-2s))
+
+#### [RndTechConf 2021](https://rndtech.pro/)
+
+* Доклад «Distributed TimescaleDB. Time-series данные в распределенном кластере TimescaleDB поверх ОРСУБД PostgreSQL»
+([анонс](https://rndtech.pro/tpost/8kj3hplfd1-time-series-dannie-v-raspredelennom-klas), [слайды](https://drive.google.com/file/d/1b2VL6uIjz2ao9iDCuOF0UzVBTe2Hj1sY/view?usp=sharing), [сниппет](https://gist.github.com/binakot/6ede22fad2309f6017ccd8b343a08b97))
+
+### 2019
+
+#### [HighLoad++ 2019 Siberia](https://www.highload.ru/siberia/2019)
+
+* Доклад «Time series данные в реляционной СУБД. Расширения TimescaleDB и PipelineDB для PostgreSQL»
 ([слайды](https://www.highload.ru/siberia/2019/abstracts/5208), [видео](https://youtu.be/3WkNp7mllv0), [демо](https://github.com/binakot/HighLoad-2019-Siberia-Demo))
 
 * Топ-3 доклад по отзывам участников конференции
@@ -63,24 +149,46 @@
 
 * [OTUS. Time series-данные в реляционной СУБД](https://otus.ru/nest/post/1041/)
 
-### [RndTechConf 2021](https://rndtech.pro/)
+#### [HighLoad++ 2019 Saint](https://www.highload.ru/spb/2019)
 
-* Доклад "Distributed TimescaleDB. Time-series данные в распределенном кластере TimescaleDB поверх ОРСУБД PostgreSQL"
-([анонс](https://rndtech.pro/tpost/8kj3hplfd1-time-series-dannie-v-raspredelennom-klas), [слайды](https://drive.google.com/file/d/1b2VL6uIjz2ao9iDCuOF0UzVBTe2Hj1sY/view?usp=sharing), [сниппет](https://gist.github.com/binakot/6ede22fad2309f6017ccd8b343a08b97))
+* Митап «DevRel & Community»
 
-### [Big Data Days 2021](https://bigdatadays.ru/)
+#### [PGConf 2019 Moscow](https://pgconf.ru/2019)
 
-* Доклад "Распределенное Хранилище IoT Телеметрии на Базе PostgreSQL и TimescaleDB" ([анонс](https://bigdatadays.ru/Ivan-Muratov/), [слайды](https://drive.google.com/file/d/14QPWFuOiVdSykMB3aEF0-piwxu8NVNFW/view?usp=sharing), [видео](https://youtu.be/8DMpufwh-2s))
+* Доклад «PostgreSQL + PostGIS + TimescaleDB — хранилище для систем мониторинга транспорта»
+([слайды](https://pgconf.ru/2019/242909), [видео](https://youtu.be/SEncf-h4Npw), [демо](https://github.com/binakot/PgConf-2019-Moscow-Demo))
 
-### [PGConf 2021 Moscow](https://pgconf.ru/202110)
+* Блицдоклад «Маппинг иерархии Java объектов в JSONB столбцы PostgreSQL с MyBatis ORM»
+([демо](https://github.com/binakot/Java-Inheritance-Into-PostgreSQL-JSONB-Mapping))
 
-* Доклад "TimescaleDB 2.0 - Time-series данные в распределенном кластере TimescaleDB поверх ОРСУБД PostgreSQL" ([анонс](https://pgconf.ru/202110/308555))
+* Награда «Лучший доклад на конференции PGConf.Russia 2019»
 
-* Награда "Топ-3 доклад по отзывам участников конференции"
+### 2018 и ранее
 
-### [MergeConf 2021 Innopolis](https://mergeconf.ru/)
+#### [HighLoad++ 2018 Moscow](https://www.highload.ru/moscow/2018)
 
-* Доклад "TimescaleDB 2.0 - Time-series данные в распределенном кластере TimescaleDB поверх ОРСУБД PostgreSQL" ([анонс](https://mergeconf.ru/development/backend/muratov))
+* Митап для активистов ИТ-сообществ
+
+#### [Krasnodar Dev Days 3](https://krd.dev/events/1)
+
+* Круглый стол «Монолит? SOA? Микросервисы? Serverless? Развитие инфраструктурных подходов»
+
+#### [Krasnodar Backend Meetup 2](https://krd.dev/events/7)
+
+* Доклад «Docker Swarm — k8s для бедных»
+([слайды](https://yadi.sk/i/1Fw7vq1n3UzgTr), [видео](https://youtu.be/BrOUx5AMOBE))
+
+#### [Krasnodar Dev Days 2](https://krd.dev/events/3)
+
+* Доклад «Тест Джоэла Спольски. 20 лет спустя. Наши дни.»
+([слайды](https://drive.google.com/open?id=15jZ55GRfyAL7h4Dc4U-AXczJ_qTZmizDkg4XH7gEgRs), [видео](https://youtu.be/f6G4OaEWBaE))
+
+#### [«Найти в IT» от HeadHunter в КубГТУ в Краснодаре](https://hh.timepad.ru/event/477879)
+
+* Доклад «Джентльменский набор начинающего разработчика»
+([слайды](https://drive.google.com/open?id=1HN3yyf7-itkHNqYeGnBW8MX7JOUKoGMMBD-gGpiRGk8))
+
+---
 
 ## Подкасты
 
@@ -98,11 +206,11 @@
 
 ### [The Art of Programming](https://blog.golodnyj.ru/)
 
-* [195 На сибирских просторах — The Art Of Programming [ Highload ] ](https://blog.golodnyj.ru/2019/07/195-art-of-programming-highload.html)
+* [195 На сибирских просторах — The Art Of Programming (Highload)](https://blog.golodnyj.ru/2019/07/195-art-of-programming-highload.html)
 
 ### [SDCast](https://sdcast.ksdaemon.ru/)
 
-* [SDCast #123: в гостях Иван Муратов, технический директор ПМК, активист Краснодарского ИТ сообщества](https://sdcast.ksdaemon.ru/2020/09/sdcast-123/)
+* [SDCast #123: в гостях Иван Муратов, технический директор ПМК, активист Краснодарского ИТ-сообщества](https://sdcast.ksdaemon.ru/2020/09/sdcast-123/)
 
 ### [Hexlet](https://ru.hexlet.io/)
 
@@ -120,36 +228,31 @@
 
 * [«Партнёрство за 50 рублей: Иллюзия vs реальность» – познакомим Вас с компанией Waliot, поделимся опытом, как компания пришла к разработке собственной платформы](https://www.youtube.com/watch?v=XADkw8M6psQ)
 
+---
+
 ## Прочее
 
-### [Twitter-аккаунт "Разработчик backend'а"](https://twitter.com/backendsecret)
+### [Twitter-аккаунт «Разработчик backend'а»](https://twitter.com/backendsecret)
 
 * [Неделя с 3 декабря 2018](http://backendsecret.ru/binakot/)
 
-### [Хакатон 123 - Инновации в спорте и туризме](https://hack123.ru)
+### [Хакатон 123 — Инновации в спорте и туризме](https://hack123.ru)
 
 * [Капитан команды Waliot, занявшей 2 место с MVP сервиса beCycled](https://github.com/be-Cycled)
 
-### [Хакатон Iqarium - Строительство (Воронка инновационных стартапов)](https://iqarium.ru/hakatontime)
+### [Хакатон Iqarium — Строительство (Воронка инновационных стартапов)](https://iqarium.ru/hakatontime)
 
 * [Капитан команды Waliot, занявшей 1 место с MVP сервиса UrbanLabs](https://github.com/URBANLABS-GROUP)
 
 ---
 
-## Дополнительно
-
-* [Образы на Docker Hub](https://hub.docker.com/u/binakot)
-
-* [Сниппеты на GitHub Gists](https://gist.github.com/binakot)
-
----
-
-## "Около-айтишное"
+## Публикации
 
 ### Хабр
 
+* [Технологические тренды в управлении автопарками в 2026](https://habr.com/ru/articles/1041712/)
 * [Системы управления автопарком в 2024: инсайты, потребности и проблемы](https://habr.com/ru/articles/835676/)
-* Цикл статей "Пробег автомобиля: почему ГЛОНАСС и одометр расходятся?":
+* Цикл статей «Пробег автомобиля: почему ГЛОНАСС и одометр расходятся?»:
   * [Часть 1. Введение](https://habr.com/ru/articles/863090/)
   * [Часть 2. Датасет](https://habr.com/ru/articles/863294/)
   * [Часть 3. Высота над уровнем моря](https://habr.com/ru/articles/863370/)
